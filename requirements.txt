@@ -2,6 +2,18 @@
 -e .
 
 # external requirements
+numpy
+pandas
+torch
+torchvision
+torchaudio
+botorch
+jupyterlab
+ipywidgets
+plotly-express
+notebook
+seaborn
+ax-platform
 click
 Sphinx
 coverage
